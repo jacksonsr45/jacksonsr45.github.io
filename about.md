@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About me jacksonsr45
 ---
 
 <div class="post">
