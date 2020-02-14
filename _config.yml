@@ -1,0 +1,30 @@
+title: My Blog
+description: Welcome to my homepage, here i will 
+    try to leave my projects and explanations about, 
+    in a simpler way! 
+
+url: https://jacksonsr45.github.io/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: jacksonsr45
+  twitter: 
+  facebook: jackson severino da rocha
+  email: jacksonsr45@gmail.com
+
+google_analytics: ""
