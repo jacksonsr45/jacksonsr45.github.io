@@ -7,8 +7,8 @@ title: Contact Long Haul
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     <p class="intro">Thank you for being here.</p>
-    <p>leave your message, and i will soon reply!
-    </a>May take a while but as soon as it gives return already.</p>
+    <p>Leave your message, and i will soon reply!</p>
+    <p>May take a while but as soon as it gives return already.</p>
     <p>Thank you! </p>
   </div>
   <form action="https://formspree.io/mvoaybqr" method="POST">
