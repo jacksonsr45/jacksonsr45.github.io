@@ -11,14 +11,14 @@ title: About Long Haul
 	<h2>More!</h2>
 	<ul>
 		<li></li>
-  		<li></a></li>
-  		<li></a></li>
-  		<li></a></li>
-  		<li></a></li>
-      <li></li>
+  		<li></li>
+  		<li></li>
+  		<li></li>
   		<li></li>
       <li></li>
   		<li></li>
-  		<li></a></li>
+      <li></li>
+  		<li></li>
+  		<li></li>
   	</ul>
 </div>
