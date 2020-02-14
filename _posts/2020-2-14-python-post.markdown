@@ -1,10 +1,11 @@
 ---
 layout: post
+author: "jacksonsr45"
 title:  "Python"
 date:   2020-2-14
 ---
 
-<p class="intro"><span class="dropcap">P</span>ython, how to declare variables and functions in a simplified way</p>
+<p class="intro"><span class="dropcap">P</span>ython, how to declare variables and functions in a simplified way!</p>
 
 Python is a computer language that makes it easier for younger users, and even the most experienced users. For having simple syntaxes without the verbiage that JAVA has.
  
