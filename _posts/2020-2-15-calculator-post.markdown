@@ -2,7 +2,7 @@
 layout: post
 author: "jacksonsr45"
 title:  "Python Calculator"
-date:   2020-2-14
+date:   2020-2-15
 ---
 
 <p class="intro"><span class="dropcap">A</span> simple way to implement a calculator, using Python!</p>
